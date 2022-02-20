@@ -6,7 +6,7 @@ ____________________________________________________________________________
  
  📓 Always love to learn more!
  
- 📫 my e-mail :liusiyangliu@126.com
+ 📫 My e-mail :liusiyangliu@126.com
 ____________________________________________________________________________
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syangl&layout=compact)](https://github.com/syangl/github-readme-stats)
 ____________________________________________________________________________
