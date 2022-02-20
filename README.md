@@ -1,6 +1,6 @@
 # 👻My Profile👻
 ____________________________________________________________________________
-👋 Hi, I’m siyang liu. A 
+👋 Hi, I’m siyang liu. 
  
  🌱 A CS undergraduate student learning at NKU.
  
