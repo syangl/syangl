@@ -1,11 +1,5 @@
 # My Profile
 ____________________________________________________________________________
-👋 Hi, I’m siyang liu. 
- 
- 🌱 A CS undergraduate student learning at NKU.
- 
- 📓 Always love to learn more!
- 
  📫 My e-mail :liusiyangliu@126.com
 ____________________________________________________________________________
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syangl&layout=compact)](https://github.com/syangl/github-readme-stats)
